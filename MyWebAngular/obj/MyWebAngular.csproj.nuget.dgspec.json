@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\WebAngular\\MyWebAngular\\MyWebAngular.csproj": {}
+    "E:\\Unity\\Program\\Project\\WebAngular\\MyWebAngular\\MyWebAngular.csproj": {}
   },
   "projects": {
-    "D:\\Project\\WebAngular\\MyWebAngular\\MyWebAngular.csproj": {
+    "E:\\Unity\\Program\\Project\\WebAngular\\MyWebAngular\\MyWebAngular.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\WebAngular\\MyWebAngular\\MyWebAngular.csproj",
+        "projectUniqueName": "E:\\Unity\\Program\\Project\\WebAngular\\MyWebAngular\\MyWebAngular.csproj",
         "projectName": "MyWebAngular",
-        "projectPath": "D:\\Project\\WebAngular\\MyWebAngular\\MyWebAngular.csproj",
-        "packagesPath": "C:\\Users\\LinhNam\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\WebAngular\\MyWebAngular\\obj\\",
+        "projectPath": "E:\\Unity\\Program\\Project\\WebAngular\\MyWebAngular\\MyWebAngular.csproj",
+        "packagesPath": "C:\\Users\\HSKY\\.nuget\\packages\\",
+        "outputPath": "E:\\Unity\\Program\\Project\\WebAngular\\MyWebAngular\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LinhNam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HSKY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
