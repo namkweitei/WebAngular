@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyWebAngular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b4106d858f1860de7125a6aabc6efb86d89580e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24f537935eebd8f297baa00c008f18a25b8274bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyWebAngular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyWebAngular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
